@@ -14,3 +14,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:08667ee93cda998048654323fd27
 
 #EXTINF:0 tvg-logo="https://dyncdn.me/mimages/340959/poster_opt.jpg" group-title="FILMES" ,The.Banker.2020[COLOR white][I][B][COLOR lime]»»[/COLOR] MOUCA [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:a48ed8ec3aa42faf4471ef8b051c6730f7c14511&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/339858/poster_opt.jpg" group-title="FILMES" ,Onward.2020[COLOR white][I][B][COLOR lime]»»[/COLOR] MOUCA [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:668380fdb9a281e18818136d37b9e7c245b02065&amp
