@@ -17,3 +17,6 @@ http://localhost:65251/play?uri=magnet:?xt=urn:btih:a48ed8ec3aa42faf4471ef8b051c
 
 #EXTINF:0 tvg-logo="https://dyncdn.me/mimages/339858/poster_opt.jpg" group-title="FILMES" ,Onward.2020[COLOR white][I][B][COLOR lime]»»[/COLOR] MOUCA [/I][/B][/COLOR]
 http://localhost:65251/play?uri=magnet:?xt=urn:btih:668380fdb9a281e18818136d37b9e7c245b02065&amp
+
+#EXTINF:0 tvg-logo="https://dyncdn.me/mimages/342759/poster_opt.jpg" group-title="FILMES" ,Birds of Prey And the Fantabulous Emancipation of One Harley Quinn 2020[COLOR white][I][B][COLOR lime]»»[/COLOR] MOUCA [/I][/B][/COLOR]
+http://localhost:65251/play?uri=magnet:?xt=urn:btih:5f8e54cd0483469cee1ffa1dd3bb2edda42b2ed7&amp
